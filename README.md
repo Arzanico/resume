@@ -10,7 +10,10 @@ Some info:
   Im from Buenos Aires, Argentina, but Im living in Kualar Lumpur (MY), at the moment. 
   
   Im working as a freelance right now. 
-  Etl, data mining and natural language procesing are some of the most common works I do, but I have experience with clustering and machine learning as well.
+  
+  Etl, data mining and natural language processing are some of the works I have done and you can found in my repositories. But I have experience with clustering and machine learning as well. Also, I worked with some geoReferenced data like geoJson, Kml, Kmz and Shapes files.
+  
+  Finally, I have a bit of experience with some cloud tools as Microsoft Azure and Google Cloud Platform.
 
   For inquiries you can write to my email. I will try to answer you as soon as possible. 
   -> nclsarzani@gmail.com
