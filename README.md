@@ -1,4 +1,4 @@
-# resume
+# resumé
 This is my Resume of experience and education.
 
 I whant to make a full online non traditional resume with all of my information and examples of my personal work but for the moment this is only an idea to start working on.
@@ -15,7 +15,9 @@ Some info:
   
   Finally, I have a bit of experience with some cloud tools as Microsoft Azure and Google Cloud Platform.
 
-  For inquiries you can write to my email. I will try to answer you as soon as possible. 
+  For inquiries you can write to my email. I will try to answer you as soon as possible.
+  
+  If you need some help with your projects you can write me too. I will be glad to collaborate with nonprofits projects or to help beginners programmers.
   -> nclsarzani@gmail.com
 
 
