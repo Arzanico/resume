@@ -1,16 +1,14 @@
-# resumé
-This is my Resume of experience and education.
+# My Resumé
 
-
-I whant to make a full online non traditional resume with all of my information and examples of my personal work but for the moment this is only an idea to start working on.
-
-Some info:
+Some info about me:
 
   My name is Sebastian Nicolas Arzani Domenget
 
-  Im from Buenos Aires, Argentina, but Im living in Kualar Lumpur (MY), at the moment. 
+  Im from Buenos Aires, Argentina, but Im living in Kualar Lumpur (MY) at the moment. 
   
   Im working as a freelance right now. 
+  
+  
   
   Etl, data mining and natural language processing are some of the works I have done and you can found in my repositories. But I have experience with clustering and machine learning as well. Also, I worked with some geoReferenced data like geoJson, Kml, Kmz and Shapes files.
   
