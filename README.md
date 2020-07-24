@@ -2,13 +2,6 @@
 This is my Resume of experience and education.
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Arzanico&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Arzanico.Arzanico) 
-
-
-
-
 I whant to make a full online non traditional resume with all of my information and examples of my personal work but for the moment this is only an idea to start working on.
 
 Some info:
@@ -29,3 +22,4 @@ Some info:
   -> nclsarzani@gmail.com
 
 
+![github stats](https://github-readme-stats.vercel.app/api?username=Arzanico&show_icons=true)
