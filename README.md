@@ -18,6 +18,7 @@
  - Google Cloud Platform
  - Oracle Desktop 
  - Microsoft Azure
+ - PowerBI
  
 You can find me on the following social networks. Also, if you want, you can write me for help with your projects. I will be glad to collaborate with nonprofits projects or help beginners programmers.
 
