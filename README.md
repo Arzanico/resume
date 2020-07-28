@@ -6,19 +6,21 @@
 
   Im from Buenos Aires, Argentina 🇦🇷 but Im living in Kualar Lumpur (MY) right now.
   
-  Speak Spanish as a Native and English.
+  Spanish English speaker
   
-  I have work on thing like:
+  I've worked on thing like:
   - ETL. For example Web Scraping with Beautifoul Soup, Data Manipulation with Python and Data Storage with Sqlite or PostGreSql
   - Data Minning
   - Natural Language Processing
   - Geo referenced data manipulation
   
- I used tools like:
+ I've used tools like:
  - Google Cloud Platform
  - Oracle Desktop 
  - Microsoft Azure
  - PowerBI
+ - Django
+ - Jupyter Notebooks
  
 You can find me on the following social networks. Also, if you want, you can write me for help with your projects. I will be glad to collaborate with nonprofits projects or help beginners programmers.
 
