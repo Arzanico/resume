@@ -10,7 +10,6 @@
   
   I've worked on thing like:
   - ETL. For example Web Scraping with Beautifoul Soup, Data Manipulation with Python and Data Storage with Sqlite or PostGreSql
-  - Data Minning
   - Natural Language Processing
   - Geo referenced data manipulation (Google Maps API, XML files, Data Visualization)
   
