@@ -1,27 +1,27 @@
 
 
-# Some info about me:
+# A little bit about who I am:
 
   My name is Sebastian Nicolas Arzani Domenget
 
   Im from Buenos Aires, Argentina 🇦🇷 but Im living in Kualar Lumpur (MY) right now.
   
-  Spanish English speaker
+  I love to travel, know new places, learn about culture and society and its complexity, I love nature as well. Also I'm very pasionated about technology as a part of the human evolution and science as a way to understand the nature of ourselves and the universe in wich we live.
   
-  I've worked on thing like:
-  - ETL. For example Web Scraping with Beautifoul Soup, Data Manipulation with Python and Data Storage with Sqlite or PostGreSql
-  - Natural Language Processing
-  - Geo referenced data manipulation (Google Maps API, XML files, Data Visualization)
+  In the world of technology I've worked on thing like:
+  - Web Scraping.
+  - Natural Language Processing.
+  - Raw data and Geo referenced data manipulation (Google Maps API, XML files, Data Visualization).
   
  I've used tools like:
  - Google Cloud Platform
- - Oracle Desktop 
- - Microsoft Azure
- - PowerBI
- - Django
- - Jupyter, Apache Zepellin Notebooks
+ - IBM Cloud
+ - Oracle Autonomous DataBase
  
- I'm interested on Oracle Machine Learning and Autonomous Data Base right now.
+ Frameworks like:
+ - Django
+ - Flask
+ 
  
 You can find me on the following social networks. Also, if you want, you can write me for help with your projects. I will be glad to collaborate with nonprofits projects or help beginners programmers.
 
