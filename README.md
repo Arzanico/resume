@@ -8,8 +8,6 @@
   
   I love to travel, know new places, learn about culture and society and its complexity, I love nature as well. Also I'm very pasionated about technology as a part of the human evolution and science as a way to understand the nature of ourselves and the universe in wich we live.
   
-  I'm very interesting in DataScience and Big Data behind IoT
-  
   
   In the world of technology I've worked on thing like:
   - Web Scraping.
