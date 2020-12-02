@@ -6,20 +6,26 @@
 
   Im from Buenos Aires, Argentina 🇦🇷 but Im living in Kualar Lumpur (MY) right now.
   
-  I love to travel, know new places, learn about culture and society and its complexity, I love nature as well. Also I'm very pasionated about technology as a part of the human evolution and science as a way to understand the nature of ourselves and the universe in wich we live.
+  I love to travel, know new places, learn about culture and society. I love nature as well. Also I'm very pasionated about technology as a part of the human evolution and science as a way to understand the nature of ourselves and the universe in which we live.
+  
+  I like computer since I was a kid, the first one that I have was an Atari but that one was only for games =) I remember my self always taking things apart and trying to break up some sistems, thats because I felt very attracted to linux platforms and open source in general also to electronic devices.
   
   
-  In the world of technology I've worked on thing like:
+  In the world of computer science I've worked on thing like:
   - Web Scraping.
   - Natural Language Processing.
   - Raw data and Geo referenced data manipulation (Google Maps API, XML files, Data Visualization).
+  - ETL pipelines
   - Web development
   - Machine learning
   
- I've used tools like:
+ I've used platforms like:
  - Google Cloud Platform
  - IBM Cloud
+ 
+ For data, Im familiar with this:
  - Oracle Autonomous DataBase
+ - SQLite
  
  Frameworks like:
  - Django
